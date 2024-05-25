@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-roboto: Roboto;
+  --font-sf-pro-display: "SF Pro Display";
+  --font-sf-pro-rounded: "SF Pro Rounded";
+  --font-lato: Lato;
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-xl: 20px;
+  --font-size-lgi-8: 19.8px;
+  --font-size-mid-4: 17.4px;
+  --font-size-3xl-3: 22.3px;
+  --font-size-15xl-7: 34.7px;
+  --font-size-smi-9: 12.9px;
+  --font-size-xs-3: 11.3px;
+  --font-size-mini-5: 14.5px;
+  --font-size-3xl-5: 22.5px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-lightslategray-100: #8897ad;
+  --link: #1e4ae9;
+  --secondary-text: #313957;
+  --color-darkslategray-100: #162d3a;
+  --color-gainsboro: #cfdfe2;
+  --color-ghostwhite: #f7fbff;
+  --color-lightgray: #d4d7e3;
+  --primary-text: #0c1421;
+  --color-gray-100: rgba(0, 0, 0, 0.4);
+  --color-gray-200: rgba(0, 0, 0, 0.7);
+
+  /* Gaps */
+  --gap-29xl: 48px;
+  --gap-5xl: 24px;
+  --gap-base: 16px;
+  --gap-5xs: 8px;
+  --gap-3xs-9: 9.9px;
+  --gap-6xs-4: 6.4px;
+
+  /* Paddings */
+  --padding-13xl: 32px;
+  --padding-xl: 20px;
+  --padding-5xs: 8px;
+  --padding-6xs: 7px;
+  --padding-base: 16px;
+  --padding-smi-4: 12.4px;
+  --padding-mid-4: 17.4px;
+  --padding-5xl-8: 24.8px;
+  --padding-xs-3: 11.3px;
+  --padding-base-1: 16.1px;
+
+  /* Border radiuses */
+  --br-15xl: 34px;
+  --br-5xl: 24px;
+  --br-xs: 12px;
+  --br-smi-4: 12.4px;
+  --br-4xs-1: 8.1px;
+}
